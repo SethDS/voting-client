@@ -21,13 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
+      <file leaf-file-name="Voting_spec.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/components/Voting_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="458">
+              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#41#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/components/Voting.jsx.js" />
         <option value="$PROJECT_DIR$/src/components/Voting.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/test/components/Voting_spec.js" />
       </list>
     </option>
   </component>
@@ -111,6 +112,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="voting-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="voting-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497047779818</updated>
       <workItem from="1497047781548" duration="532000" />
-      <workItem from="1497900280715" duration="5740000" />
+      <workItem from="1497900280715" duration="6442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6272000" />
+    <option name="totallyTimeSpent" value="6974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,7 +282,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="7" width="671" height="719" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -273,7 +292,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07810107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061255742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -343,7 +362,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1498237632698" expanded="true" signature="7:102" ph="..." />
           </folding>
         </state>
       </provider>
@@ -371,12 +390,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1497914473803" expanded="true" signature="0:766" ph="{&quot;name&quot;: &quot;voting-client&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="107:224" ph="{&quot;test&quot;: &quot;mocha --compilers js:babel-core/register --require ./test/test_helper.js \&quot;test/**/*@(.js|.jsx)\&quot;&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="298:442" ph="{&quot;immutable&quot;: &quot;^3.8.1&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="465:693" ph="{&quot;babel-core&quot;: &quot;^6.25.0&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="706:764" ph="{...}" />
-            <marker date="1497914473803" expanded="true" signature="723:760" ph="[...]" />
+            <marker date="1498252774491" expanded="true" signature="0:808" ph="{&quot;name&quot;: &quot;voting-client&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="107:224" ph="{&quot;test&quot;: &quot;mocha --compilers js:babel-core/register --require ./test/test_helper.js \&quot;test/**/*@(.js|.jsx)\&quot;&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="298:484" ph="{&quot;immutable&quot;: &quot;^3.8.1&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="507:735" ph="{&quot;babel-core&quot;: &quot;^6.25.0&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="748:806" ph="{...}" />
+            <marker date="1498252774491" expanded="true" signature="765:802" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -409,12 +428,12 @@
         <state relative-caret-position="342">
           <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
-            <marker date="1497914473803" expanded="true" signature="0:766" ph="{&quot;name&quot;: &quot;voting-client&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="107:224" ph="{&quot;test&quot;: &quot;mocha --compilers js:babel-core/register --require ./test/test_helper.js \&quot;test/**/*@(.js|.jsx)\&quot;&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="298:442" ph="{&quot;immutable&quot;: &quot;^3.8.1&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="465:693" ph="{&quot;babel-core&quot;: &quot;^6.25.0&quot;...}" />
-            <marker date="1497914473803" expanded="true" signature="706:764" ph="{...}" />
-            <marker date="1497914473803" expanded="true" signature="723:760" ph="[...]" />
+            <marker date="1498252774491" expanded="true" signature="0:808" ph="{&quot;name&quot;: &quot;voting-client&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="107:224" ph="{&quot;test&quot;: &quot;mocha --compilers js:babel-core/register --require ./test/test_helper.js \&quot;test/**/*@(.js|.jsx)\&quot;&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="298:484" ph="{&quot;immutable&quot;: &quot;^3.8.1&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="507:735" ph="{&quot;babel-core&quot;: &quot;^6.25.0&quot;...}" />
+            <marker date="1498252774491" expanded="true" signature="748:806" ph="{...}" />
+            <marker date="1498252774491" expanded="true" signature="765:802" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -453,7 +472,17 @@
         <state relative-caret-position="150">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1498237632698" expanded="true" signature="7:102" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/components/Voting_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="e#41#67#0" expanded="true" />
           </folding>
         </state>
       </provider>

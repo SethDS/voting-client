@@ -16,7 +16,16 @@ export default React.createClass({
     },
     render: function(){
         return <div className="voting">
-            
+            {this.getPair().map(entry =>
+                <button key="disabled"
+                        disabled = {this.isDisabled()}
+                        onClick={() => this.props.vote(entry)}>
+                    <h1>{entry}</h1>
+                    {this.hasVoted(entry) ?
+                        <div className="label">Voted</div> :
+                    null}
+                </button>
+            )}
         </div>
     }
 

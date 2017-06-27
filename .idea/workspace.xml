@@ -21,12 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vote.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Vote.js">
+      <file leaf-file-name="Voting.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Voting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="400">
+              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="e#41#67#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,9 +52,9 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/test/components/Voting_spec.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Voting.js" />
         <option value="$PROJECT_DIR$/src/components/Winner.js" />
         <option value="$PROJECT_DIR$/src/components/Vote.js" />
+        <option value="$PROJECT_DIR$/src/components/Voting.js" />
       </list>
     </option>
   </component>
@@ -264,12 +266,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497047779818</updated>
       <workItem from="1497047781548" duration="532000" />
-      <workItem from="1497900280715" duration="8843000" />
+      <workItem from="1497900280715" duration="9426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9375000" />
+    <option name="totallyTimeSpent" value="9958000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,7 +294,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.048780486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,23 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Voting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding>
-            <marker date="1498256777238" expanded="false" signature="0:40" ph="/** Created by Seth on 6/23/2017. ...*/" />
-            <marker date="1498256777238" expanded="true" signature="102:895" ph="{...}" />
-            <marker date="1498256777238" expanded="true" signature="127:172" ph="{...}" />
-            <marker date="1498256777238" expanded="true" signature="200:243" ph="{...}" />
-            <marker date="1498256777238" expanded="true" signature="277:328" ph="{...}" />
-            <marker date="1498256777238" expanded="true" signature="352:893" ph="{...}" />
-            <marker date="1498256777238" expanded="true" signature="369:887" ph="&lt;div/&gt;" />
-            <marker date="1498256777238" expanded="true" signature="556:857" ph="&lt;button/&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Winner.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -509,9 +494,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Vote.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="132">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <marker date="1498602925390" expanded="false" signature="0:40" ph="/** Created by Seth on 6/23/2017. ...*/" />
+            <marker date="1498602925390" expanded="true" signature="102:827" ph="{...}" />
+            <marker date="1498602925390" expanded="true" signature="127:170" ph="{...}" />
+            <marker date="1498602925390" expanded="true" signature="198:242" ph="{...}" />
+            <marker date="1498602925390" expanded="true" signature="276:329" ph="{...}" />
+            <marker date="1498602925390" expanded="true" signature="353:823" ph="{...}" />
+            <marker date="1498602925390" expanded="true" signature="370:817" ph="&lt;div/&gt;" />
+            <marker date="1498602925390" expanded="true" signature="452:787" ph="&lt;button/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Voting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#41#67#0" expanded="true" />
+            <marker date="1498603541959" expanded="true" signature="185:414" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

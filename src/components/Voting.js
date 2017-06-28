@@ -2,10 +2,13 @@
  * Created by Seth on 6/23/2017.
  */
 import React from 'react';
+import PureRenderMixin from 'react-addons-pure-render-mixin';
 import Winner from './Winner';
 import Vote from './Vote';
 
 export default React.createClass({
+
+    mixins: [PureRenderMixin],
 
     render: function(){
 

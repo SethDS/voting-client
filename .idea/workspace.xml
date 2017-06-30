@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9282167-04b2-43dc-b268-a1b0f51333e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Results.js" afterPath="$PROJECT_DIR$/src/components/Results.js" />
-    </list>
+    <list default="true" id="a9282167-04b2-43dc-b268-a1b0f51333e1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -282,12 +279,12 @@
       <workItem from="1497047781548" duration="532000" />
       <workItem from="1497900280715" duration="9480000" />
       <workItem from="1498668868054" duration="3139000" />
-      <workItem from="1498841765540" duration="1925000" />
+      <workItem from="1498841765540" duration="2518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15076000" />
+    <option name="totallyTimeSpent" value="15669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

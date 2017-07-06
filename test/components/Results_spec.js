@@ -20,7 +20,13 @@ describe('Results', () => {
         );
 
         const entries = scryRenderedDOMComponentsWithClass(component, 'entry');
-        const [train, days] = entries.map
+        const [train, days] = entries.map(e => e.textContent);
+
+        expect(entries.length).to.equal(2);
+        expect(train).to.contain('Trainspotting');
+        expect(train).to.contain('5');
+        expect(days).to.contain('28 Days Later');
+        expect(days).to.contain('0');
     })
 
 });

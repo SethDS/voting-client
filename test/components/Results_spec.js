@@ -27,6 +27,10 @@ describe('Results', () => {
         expect(train).to.contain('5');
         expect(days).to.contain('28 Days Later');
         expect(days).to.contain('0');
+    });
+
+    it('invokes the next callback when next button is clicked', () => {
+         
     })
 
 });
